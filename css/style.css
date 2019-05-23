@@ -1,0 +1,13 @@
+body {
+  min-height: 100vh;
+}
+#group {
+  font-family: "Macondo Swash Caps", cursive;
+  color: black;
+}
+
+footer {
+  display: flex;
+  text-align: center;
+  margin-top: 330px;
+}
